@@ -31,3 +31,4 @@ http://localhost:8000/
 and you should see this:
 
 ![WebGL Earth Offline](https://cloud.githubusercontent.com/assets/59284/5442815/cc863142-849c-11e4-8b1b-47b78eafc3ab.jpg)
+http://examples.webglearth.com/
